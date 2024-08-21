@@ -5,13 +5,13 @@ import { getDatabase, ref, set } from "firebase/database";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDlb6JxyyjkN5lDhlbYeO1dbzDl1TC8Zqc",
-  authDomain: "smsauth-6ab18.firebaseapp.com",
-  databaseURL: "https://smsauth-6ab18-default-rtdb.firebaseio.com",
-  projectId: "smsauth-6ab18",
-  storageBucket: "smsauth-6ab18.appspot.com",
-  messagingSenderId: "185537522757",
-  appId: "1:185537522757:web:e3ef4d6eae09306e50472c"
+  apiKey: "**********",
+  authDomain: "*****************",
+  databaseURL: "**************",
+  projectId: "***************",
+  storageBucket: "*************",
+  messagingSenderId: "*****************",
+  appId: "*************************"
 };
 
 // Initialize Firebase
